@@ -1,0 +1,3 @@
+[submodule "Frontend1"]
+	path = Frontend1
+	url = ./Frontend1
